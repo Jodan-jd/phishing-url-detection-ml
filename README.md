@@ -130,7 +130,7 @@ phishing-url-detection-ml/
 ## 📄 Project Report
 
 👉 View Full Report:
-docs/project-report.pdf
+[docs/project-report.pdf](https://github.com/Jodan-jd/phishing-url-detection-ml/tree/main/docs)
 
 ---
 
